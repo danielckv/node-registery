@@ -1,0 +1,12 @@
+{
+  "name": "node-registery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "git": "https://github.com/danielckv/node-registery.git",
+  "author": "Daniel Chernenkov",
+  "license": "ISC"
+}
